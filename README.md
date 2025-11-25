@@ -1,6 +1,7 @@
 # Uber-Ride-Analytics
 
 🚖 Uber Ride Analytics – SQL Capstone Project
+
 📌 Project Overview
 This project demonstrates end‑to‑end SQL skills applied to a ride‑sharing dataset. It covers data cleaning, business analysis, performance optimization, and auditing. The goal is to showcase how SQL can be used to solve real business problems such as driver recruitment, revenue leakage, cancellation trends, and seasonal fare variations.
 
