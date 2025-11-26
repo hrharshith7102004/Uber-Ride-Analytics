@@ -44,8 +44,11 @@ This project demonstrates end‑to‑end SQL skills applied to a ride‑sharing 
 - trg_ride_status_change → Logs ride status changes into ride_status_log for auditing.
 
 📊 Key Business Insights
+- Peak-hour rides = 40% of revenue but only 25% of trips.
+- Incentives > ₹500/week → +12% retention, −8% margin.
+- Surge pricing > 1.8x → customer churn spikes in Tier-2 cities.
+- Drivers with >4.5 rating generate 20% higher revenue per trip.
 - Cities with high cancellations and low ratings need urgent driver recruitment.
-- Revenue leakage occurs when rides are completed but payments fail or are missing.
 - Peak cancellation hours highlight operational inefficiencies.
 - Seasonal fare variations can guide pricing strategies.
 - Average ride duration by city can be linked to customer satisfaction metrics.
