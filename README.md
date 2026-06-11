@@ -1,7 +1,8 @@
 # Uber-Ride-Analytics
 
-![<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/3a5a8fc5-fda6-4487-b996-1b30ecd628bc" />
-](https://github.com/user-attachments/assets/...)
+![<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/e721dcb0-3313-4e53-8e25-786c2603761c" />
+
+
 
 🚖 Uber Ride Analytics – SQL Capstone Project
 
