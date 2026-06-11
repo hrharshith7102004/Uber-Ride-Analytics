@@ -1,6 +1,6 @@
 # Uber-Ride-Analytics
 
-![<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/e721dcb0-3313-4e53-8e25-786c2603761c" />
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/e721dcb0-3313-4e53-8e25-786c2603761c" />
 
 
 
