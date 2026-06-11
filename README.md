@@ -1,5 +1,7 @@
 # Uber-Ride-Analytics
 
+https://entrackr.com/news/uber-pumps-rs-3000-cr-in-india-to-compete-new-leader-rapido-11158417
+
 🚖 Uber Ride Analytics – SQL Capstone Project
 
 📌 Project Overview
