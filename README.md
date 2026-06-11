@@ -1,6 +1,7 @@
 # Uber-Ride-Analytics
 
-https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/media_files/2026/02/26/uber-2026-02-26-17-43-33.png
+![<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/3a5a8fc5-fda6-4487-b996-1b30ecd628bc" />
+](https://github.com/user-attachments/assets/...)
 
 🚖 Uber Ride Analytics – SQL Capstone Project
 
